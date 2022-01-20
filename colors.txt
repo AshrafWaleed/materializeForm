@@ -1,0 +1,2 @@
+bleu: #1a2475
+yellow: #fcdd00

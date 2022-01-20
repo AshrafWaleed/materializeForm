@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    height: 1000px;
+}
+
+.menuIconEdit{
+    display: block;
+    color: #fcdd00;
+}
+
+.headerContainer{
+    height: 75px;
+    background-color: #1a2475;
+}
+
+#Apple{
+    color: #fcdd00;
+    text-align: center;
+}
+
+
+.card{
+    width: 300px;
+    color: #fcdd00;
+    background-color: #1a2475 !important;
+}
+
+
+.cardTitleEdit{
+    color: #1a2475 !important;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+}
